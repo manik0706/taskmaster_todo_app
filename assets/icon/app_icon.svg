@@ -1,0 +1,42 @@
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Circle -->
+  <circle cx="256" cy="256" r="240" fill="#4CAF50" stroke="#2E7D32" stroke-width="8"/>
+  
+  <!-- Checklist Background -->
+  <rect x="120" y="140" width="272" height="320" rx="16" ry="16" fill="#FFFFFF" stroke="#E0E0E0" stroke-width="2"/>
+  
+  <!-- Header -->
+  <rect x="120" y="140" width="272" height="60" rx="16" ry="16" fill="#2196F3"/>
+  <text x="256" y="180" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="#FFFFFF">TO-DO</text>
+  
+  <!-- Checklist Items -->
+  <!-- Item 1 - Completed -->
+  <circle cx="150" cy="240" r="12" fill="#4CAF50" stroke="#2E7D32" stroke-width="2"/>
+  <path d="M145 240 L149 244 L155 236" stroke="#FFFFFF" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <line x1="175" y1="240" x2="320" y2="240" stroke="#9E9E9E" stroke-width="2" stroke-linecap="round"/>
+  
+  <!-- Item 2 - Completed -->
+  <circle cx="150" cy="280" r="12" fill="#4CAF50" stroke="#2E7D32" stroke-width="2"/>
+  <path d="M145 280 L149 284 L155 276" stroke="#FFFFFF" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <line x1="175" y1="280" x2="290" y2="280" stroke="#9E9E9E" stroke-width="2" stroke-linecap="round"/>
+  
+  <!-- Item 3 - Pending -->
+  <circle cx="150" cy="320" r="12" fill="#FFFFFF" stroke="#757575" stroke-width="2"/>
+  <line x1="175" y1="320" x2="340" y2="320" stroke="#424242" stroke-width="2" stroke-linecap="round"/>
+  
+  <!-- Item 4 - Pending -->
+  <circle cx="150" cy="360" r="12" fill="#FFFFFF" stroke="#757575" stroke-width="2"/>
+  <line x1="175" y1="360" x2="310" y2="360" stroke="#424242" stroke-width="2" stroke-linecap="round"/>
+  
+  <!-- Plus Icon for Adding -->
+  <circle cx="380" cy="400" r="24" fill="#FF5722"/>
+  <line x1="368" y1="400" x2="392" y2="400" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round"/>
+  <line x1="380" y1="388" x2="380" y2="412" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round"/>
+  
+  <!-- Calendar Icon -->
+  <rect x="320" y="220" width="40" height="40" rx="4" ry="4" fill="#FFC107" stroke="#FF8F00" stroke-width="2"/>
+  <rect x="320" y="230" width="40" height="4" fill="#FF8F00"/>
+  <circle cx="328" r="2" cy="215" fill="#FF8F00"/>
+  <circle cx="352" r="2" cy="215" fill="#FF8F00"/>
+  <text x="340" y="250" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle" fill="#FFFFFF">15</text>
+</svg>
