@@ -29,7 +29,7 @@ TaskMaster is a comprehensive todo application that allows users to manage their
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repository-url>
+   git clone https://github.com/manik0706/taskmaster_todo_app.git
    cd taskmaster-flutter-app
    ```
 
