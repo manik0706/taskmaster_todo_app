@@ -98,7 +98,7 @@ class HomeScreen extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         title: Text(
-          'To-Do List',
+          'Your Tasks',
           style: TextStyle(
             color: Theme.of(context).colorScheme.primary,
           ),
