@@ -16,6 +16,15 @@ TaskMaster is a comprehensive todo application that allows users to manage their
 - 🎨 **Modern UI**: Beautiful splash screen with animations and intuitive design
 - ⚡ **State Management**: Robust BLoC pattern implementation
 
+## Screen-Recording and Screen-Shots
+
+
+https://github.com/user-attachments/assets/82466355-5fa3-4d6a-8910-ad38231c753c
+![Light_mode](https://github.com/user-attachments/assets/b4dca8ec-19ef-40cc-9452-5f81fc979d37)
+![Dark_mode](https://github.com/user-attachments/assets/8bff37ad-f991-49a2-94e7-d2a270c2dfce)
+
+
+
 ## 🚀 How to Run
 
 ### Prerequisites
